@@ -11,3 +11,5 @@
   
  Пойдем по порядку, к каждому типу будут примеры, надеюсь они вам помогут.
  <h3>Long Pulling</h3>
+ ![image](https://user-images.githubusercontent.com/60395869/125396354-17a1d680-e3b5-11eb-839b-42b254c669cf.png)
+
